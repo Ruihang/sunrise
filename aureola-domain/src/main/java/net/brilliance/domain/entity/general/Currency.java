@@ -35,7 +35,7 @@ import net.brilliance.framework.global.GlobalConstants;
  * @author ducbq
  */
 @Data
-@Entity
+
 @Table(name = "currency")
 @EqualsAndHashCode(callSuper = true)
 public class Currency extends BizObjectBase {

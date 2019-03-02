@@ -45,7 +45,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  * @author ducbq
  */
 @Data
-@Entity
+
 @Table(name = "activity")
 @EqualsAndHashCode(callSuper = true)
 public class Activity extends BizObjectBase {

@@ -18,7 +18,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  */
 @NoArgsConstructor
 @AllArgsConstructor
-@Entity
+
 @Builder
 @Table(name = "sys_sequence")
 public class SystemSequence extends BizObjectBase{

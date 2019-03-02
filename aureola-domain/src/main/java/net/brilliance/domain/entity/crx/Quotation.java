@@ -34,7 +34,7 @@ import net.brilliance.framework.global.GlobalConstants;
 @Builder
 @NoArgsConstructor 
 @AllArgsConstructor
-@Entity
+
 @Table(name = "quotation")
 @EqualsAndHashCode(callSuper=false)
 public class Quotation extends BizObjectBase{

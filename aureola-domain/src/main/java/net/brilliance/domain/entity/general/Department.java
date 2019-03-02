@@ -42,7 +42,7 @@ import net.brilliance.framework.global.GlobalConstants;
  * @author ducbq
  */
 @Data
-@Entity
+
 @Table(name = "department")
 @EqualsAndHashCode(callSuper = true)
 public class Department extends BizObjectBase {

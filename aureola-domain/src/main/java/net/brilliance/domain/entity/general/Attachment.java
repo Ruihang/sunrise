@@ -18,7 +18,7 @@ import net.brilliance.framework.entity.ObjectAudit;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-@Entity
+
 @Table(name = "attachment")
 public class Attachment extends ObjectAudit {
 	/**

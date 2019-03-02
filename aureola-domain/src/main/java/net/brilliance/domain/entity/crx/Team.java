@@ -19,7 +19,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @Builder
 @NoArgsConstructor 
 @AllArgsConstructor
-@Entity
+
 @Table(name = "team")
 @EqualsAndHashCode(callSuper=false)
 public class Team extends BizObjectBase {

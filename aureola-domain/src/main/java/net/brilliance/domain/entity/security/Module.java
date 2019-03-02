@@ -30,7 +30,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  * 
  * @author ducbq
  */
-@Entity
+
 @Table(name = "auth_module")
 public class Module extends BizObjectBase {
 	private static final long serialVersionUID = 5474725952032953164L;

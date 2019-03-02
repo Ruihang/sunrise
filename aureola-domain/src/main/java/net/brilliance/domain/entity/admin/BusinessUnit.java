@@ -23,7 +23,7 @@ import net.brilliance.framework.global.GlobalConstants;
 @Builder
 @NoArgsConstructor 
 @AllArgsConstructor
-@Entity
+
 @Table(name = "business_unit")
 public class BusinessUnit extends BizObjectBase{
 	/**

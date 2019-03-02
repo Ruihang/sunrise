@@ -35,7 +35,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  * @author ducbq
  */
 @Data
-@Entity
+
 @Table(name = "sys_localized_item")
 @EqualsAndHashCode(callSuper = true)
 public class LocalizedItem extends BizObjectBase {

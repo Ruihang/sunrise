@@ -24,7 +24,7 @@ import net.brilliance.domain.entity.crx.contact.Contact;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-@Entity
+
 @Table(name = "project")
 public class Project extends ProjectBase {
 	private static final long serialVersionUID = 3428052362186176103L;

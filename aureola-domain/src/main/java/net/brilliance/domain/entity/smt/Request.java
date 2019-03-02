@@ -50,7 +50,7 @@ import net.brilliance.framework.global.GlobalConstants;
 @NoArgsConstructor
 @Builder
 @Data
-@Entity
+
 @Table(name = "sm_request")
 @EqualsAndHashCode(callSuper = true)
 public class Request extends BizObjectBase {

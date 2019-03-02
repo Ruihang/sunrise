@@ -11,7 +11,7 @@ import net.brilliance.domain.entity.general.MeasureUnit;
 import net.brilliance.framework.entity.BizObjectBase;
 
 @SuppressWarnings("serial")
-@Entity
+
 @Table(name = "equipment")
 public class Equipment extends BizObjectBase{
 	@Column(name = "code", nullable = false, unique = true)

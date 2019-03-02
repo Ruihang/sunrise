@@ -18,7 +18,7 @@ import net.brilliance.framework.global.GlobalConstants;
  * A Book.
  */
 
-@Entity
+
 @Table(name = "reference_book")
 public class RefBook extends BizObjectBase{
 	private static final long serialVersionUID = 1L;

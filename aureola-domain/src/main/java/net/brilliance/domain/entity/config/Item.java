@@ -37,7 +37,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @AllArgsConstructor
 @Builder
 @Data
-@Entity
+
 @Table(name = "sys_item")
 @EqualsAndHashCode(callSuper = true)
 public class Item extends BizObjectBase {

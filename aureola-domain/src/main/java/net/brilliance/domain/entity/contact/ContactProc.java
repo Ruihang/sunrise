@@ -40,7 +40,7 @@ import net.brilliance.model.GenderType;
  * 
  * @author Bui Quy Duc
  */
-@Entity
+
 @Table(name = "contact_profile")
 @EqualsAndHashCode(callSuper = true)
 public class ContactProc extends ContactBase {

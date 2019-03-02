@@ -15,7 +15,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 /**
  * A Project base.
  */
-@Entity
+
 public abstract class ProjectBase extends BizObjectBase {
 
 	/**

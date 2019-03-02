@@ -15,7 +15,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  *
  */
 @SuppressWarnings("serial")
-@Entity
+
 @Table(name = "seed")
 public class Seed extends BizObjectBase {
 	@Column(name = "name")

@@ -37,7 +37,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  * 
  * @author Bui Quy Duc
  */
-@Entity
+
 @Table(name = "contact_team")
 @EqualsAndHashCode(callSuper = true)
 @Builder

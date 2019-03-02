@@ -58,7 +58,7 @@ import net.brilliance.model.DateTimePatterns;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-@Entity
+
 @Table(name = "auth_user_account")
 @ToString(exclude = { "authorities" })
 @EqualsAndHashCode(callSuper = true)

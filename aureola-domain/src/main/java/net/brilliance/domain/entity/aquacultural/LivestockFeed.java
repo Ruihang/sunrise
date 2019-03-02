@@ -19,7 +19,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  *
  */
 @SuppressWarnings("serial")
-@Entity
+
 @Table(name = "livestock_feed")
 public class LivestockFeed extends BizObjectBase {
 	@Column(name = "code", unique = true)

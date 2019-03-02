@@ -33,7 +33,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-@Entity
+
 @Table(name = "document_attachment")
 public class DocumentAttachment extends BizObjectBase {
 

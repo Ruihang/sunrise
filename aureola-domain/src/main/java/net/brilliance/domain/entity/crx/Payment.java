@@ -36,7 +36,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @Builder
 @NoArgsConstructor 
 @AllArgsConstructor
-@Entity
+
 @Table(name = "payment")
 @EqualsAndHashCode(callSuper=false)
 public class Payment extends BizObjectBase{

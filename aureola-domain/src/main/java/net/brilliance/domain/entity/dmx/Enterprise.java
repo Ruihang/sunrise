@@ -28,7 +28,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-@Entity
+
 @Table(name = "dmx_enterprise")
 @EqualsAndHashCode(callSuper = true)
 public class Enterprise extends BizObjectBase {

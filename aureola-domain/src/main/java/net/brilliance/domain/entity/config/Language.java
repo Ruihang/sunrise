@@ -33,7 +33,7 @@ import net.brilliance.framework.global.GlobalConstants;
  * @author ducbq
  */
 @Data
-@Entity
+
 @Table(name = "sys_language")
 @EqualsAndHashCode(callSuper = true)
 public class Language extends BizObjectBase {

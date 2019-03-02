@@ -28,7 +28,7 @@ import net.brilliance.framework.entity.ObjectBase;
 @Builder
 @NoArgsConstructor 
 @AllArgsConstructor
-@Entity
+
 @Table(name="document")
 public class Document extends ObjectBase{
 	/**

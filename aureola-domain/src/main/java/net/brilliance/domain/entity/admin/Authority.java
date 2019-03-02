@@ -36,7 +36,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-@Entity
+
 @Table(name = "auth_authority")
 public class Authority extends BizObjectBase {
 	/**

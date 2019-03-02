@@ -23,7 +23,7 @@ import net.brilliance.framework.global.GlobalConstants;
 import net.brilliance.model.GenderType;
 
 @Data
-@Entity
+
 @Table(name = "employee")
 @EqualsAndHashCode(callSuper = true)
 public class Employee extends ContactBase {

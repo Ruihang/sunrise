@@ -54,7 +54,7 @@ import net.brilliance.model.GenderType;
  * 
  * @author Bui Quy Duc
  *//*
-@Entity
+
 @Table(name = "contact_class")
 @EqualsAndHashCode(callSuper = true)
 @NamedQuery(

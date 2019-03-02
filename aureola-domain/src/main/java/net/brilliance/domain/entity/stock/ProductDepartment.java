@@ -32,7 +32,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  * @author ducbq
  */
 @Data
-@Entity
+
 @Table(name = "product_department")
 @EqualsAndHashCode(callSuper = true)
 public class ProductDepartment extends BizObjectBase {

@@ -47,7 +47,7 @@ import net.brilliance.framework.global.GlobalConstants;
 @AllArgsConstructor
 @Builder
 @Data
-@Entity
+
 @Table(name = "catalogue_subtype")
 @EqualsAndHashCode(callSuper = true)
 public class CatalogueSubtype extends BizObjectBase {

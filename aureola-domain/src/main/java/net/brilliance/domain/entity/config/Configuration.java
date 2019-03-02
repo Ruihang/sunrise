@@ -18,7 +18,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  * @author ducbq
  *
  */
-@Entity
+
 @Table(name = "configuration")
 public class Configuration extends BizObjectBase {
 	/**

@@ -16,7 +16,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  *
  */
 @SuppressWarnings("serial")
-@Entity
+
 @Table(name = "pond")
 public class Pond extends BizObjectBase {
 	@Column(name = "code", unique = true)

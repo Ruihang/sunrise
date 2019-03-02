@@ -17,7 +17,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @Builder
 @NoArgsConstructor 
 @AllArgsConstructor
-@Entity
+
 @Table(name = "region")
 @EqualsAndHashCode(callSuper=false)
 public class Region extends BizObjectBase{

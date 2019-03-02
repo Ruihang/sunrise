@@ -17,7 +17,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @Builder
 @NoArgsConstructor 
 @AllArgsConstructor
-@Entity
+
 @Table(name = "contract_type")
 @EqualsAndHashCode(callSuper=false)
 public class ContractType extends BizObjectBase{

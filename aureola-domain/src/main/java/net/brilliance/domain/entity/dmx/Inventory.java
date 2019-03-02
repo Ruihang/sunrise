@@ -39,7 +39,7 @@ import net.brilliance.framework.global.GlobalConstants;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-@Entity
+
 @Table(name = "inventory_item")
 public class Inventory extends BizObjectBase {
 	/**

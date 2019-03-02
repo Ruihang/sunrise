@@ -16,7 +16,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  *
  */
 @SuppressWarnings("serial")
-@Entity
+
 @Table(name = "production_plan")
 public class ProductionPlan extends BizObjectBase {
 	@Column(name = "code", unique = true)

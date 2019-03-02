@@ -40,7 +40,7 @@ import net.brilliance.framework.global.GlobalConstants;
  * 
  * @author ducbq
  */
-@Entity
+
 @Table(name = "client_profile")
 @EqualsAndHashCode(callSuper = true)
 @NamedQueries({

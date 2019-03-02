@@ -19,7 +19,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  * @author ducbq
  *
  */
-@Entity
+
 @Table(name = "dmx_policy")
 @EqualsAndHashCode(callSuper = true)
 public class Policy extends BizObjectBase {

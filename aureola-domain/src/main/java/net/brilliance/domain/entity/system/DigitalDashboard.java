@@ -21,7 +21,7 @@ import net.brilliance.framework.global.GlobalConstants;
  */
 @NoArgsConstructor
 @AllArgsConstructor
-@Entity
+
 @Builder
 @Table(name = "dmx_dashboard")
 public class DigitalDashboard extends BizObjectBase{

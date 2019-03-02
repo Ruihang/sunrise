@@ -21,7 +21,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-@Entity
+
 @Table(name = "sys_job_category")
 public class JobCategory extends BizObjectBase {
 

@@ -14,7 +14,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  *
  */
 @SuppressWarnings("serial")
-@Entity
+
 @Table(name = "medicine")
 public class Medicine extends BizObjectBase {
 	@Column(name="code", unique=true, nullable=false)

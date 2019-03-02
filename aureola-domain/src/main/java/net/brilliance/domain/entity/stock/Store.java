@@ -26,7 +26,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  *
  */
 @Data
-@Entity
+
 @Table(name = "stk_store")
 @EqualsAndHashCode(callSuper = true)
 public class Store extends BizObjectBase {

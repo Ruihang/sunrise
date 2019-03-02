@@ -29,7 +29,7 @@ import net.brilliance.framework.global.GlobalConstants;
 @Builder
 @NoArgsConstructor 
 @AllArgsConstructor
-@Entity
+
 @Table(name = "account")
 @EqualsAndHashCode(callSuper=false)
 public class Account extends BizObjectBase{

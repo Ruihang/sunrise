@@ -40,7 +40,7 @@ import net.brilliance.framework.global.GlobalConstants;
 @NoArgsConstructor
 @Builder
 @Data
-@Entity
+
 @Table(name = "config_item")
 @EqualsAndHashCode(callSuper = true)
 public class ConfigItem extends BizObjectBase {

@@ -13,7 +13,7 @@ import net.brilliance.framework.global.GlobalConstants;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-@Entity
+
 @Table(name = "dmx_audit_object")
 public class AuditObject extends BizObjectBase {
 	/**

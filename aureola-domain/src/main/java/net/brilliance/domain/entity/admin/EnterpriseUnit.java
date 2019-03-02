@@ -33,7 +33,7 @@ import net.brilliance.framework.global.GlobalConstants;
 @Builder
 @NoArgsConstructor 
 @AllArgsConstructor
-@Entity
+
 @Table(name = "enterprise_unit")
 @Data
 @EqualsAndHashCode(callSuper=false)

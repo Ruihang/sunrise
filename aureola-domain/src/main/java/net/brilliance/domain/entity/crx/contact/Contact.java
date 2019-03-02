@@ -66,7 +66,7 @@ import net.brilliance.model.GenderType;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-@Entity
+
 @Table(name = "contact")
 @EqualsAndHashCode(callSuper = true)
 public class Contact extends BizObjectBase {

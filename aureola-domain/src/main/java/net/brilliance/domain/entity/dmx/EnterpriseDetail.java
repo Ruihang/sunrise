@@ -50,7 +50,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-@Entity
+
 @Table(name = "dmx_enterprise_detail")
 @EqualsAndHashCode(callSuper = true)
 public class EnterpriseDetail extends BizObjectBase {

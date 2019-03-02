@@ -31,7 +31,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-@Entity
+
 @Table(name = "print_template")
 @EqualsAndHashCode(callSuper = true)
 public class PrintTemplate extends BizObjectBase {

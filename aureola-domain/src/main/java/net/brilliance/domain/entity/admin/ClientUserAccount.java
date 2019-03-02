@@ -25,7 +25,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-@Entity
+
 @Table(name = "client_user_account")
 @EqualsAndHashCode(callSuper = true)
 public class ClientUserAccount extends BizObjectBase {

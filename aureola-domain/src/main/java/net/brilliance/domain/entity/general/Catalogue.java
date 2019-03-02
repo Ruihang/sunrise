@@ -47,7 +47,7 @@ import net.brilliance.framework.global.GlobalConstants;
  */
 @Builder
 @Data
-@Entity
+
 @Table(name = "catalogue")
 @EqualsAndHashCode(callSuper = true)
 @AllArgsConstructor

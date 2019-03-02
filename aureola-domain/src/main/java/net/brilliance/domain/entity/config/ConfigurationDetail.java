@@ -15,7 +15,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  * @author ducbq
  *
  */
-@Entity
+
 @Table(name = "configuration_detail")
 public class ConfigurationDetail extends BizObjectBase {
 	private static final long serialVersionUID = -6404039963892756706L;

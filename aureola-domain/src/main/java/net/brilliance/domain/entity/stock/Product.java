@@ -53,7 +53,7 @@ import net.brilliance.framework.global.GlobalConstants;
  * @author ducbq
  */
 @Data
-@Entity
+
 @Table(name = "product")
 @EqualsAndHashCode(callSuper = true)
 public class Product extends BizObjectBase {

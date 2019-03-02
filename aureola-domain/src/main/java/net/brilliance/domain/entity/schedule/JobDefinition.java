@@ -15,7 +15,7 @@ import net.brilliance.framework.entity.BizObjectBase;
  * @author ducbq
  *
  */
-@Entity
+
 @Table(name = "sys_job_definition")
 public class JobDefinition extends BizObjectBase {
 	/**

@@ -43,7 +43,7 @@ import net.brilliance.framework.entity.BizObjectBase;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-@Entity
+
 @Table(name = "enterprise_store")
 @EqualsAndHashCode(callSuper = true)
 public class EnterpriseStore extends BizObjectBase {
