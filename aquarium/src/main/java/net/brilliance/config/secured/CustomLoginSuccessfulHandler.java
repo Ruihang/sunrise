@@ -11,6 +11,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
@@ -39,7 +40,7 @@ public class CustomLoginSuccessfulHandler extends SavedRequestAwareAuthenticatio
 	@Inject 
 	private LogService log;
 
-	@Inject
+	@Autowired
 	private UserAuthenticationService userAuthenticationService;
 
 	@Override
