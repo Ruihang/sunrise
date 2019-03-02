@@ -1,7 +1,7 @@
 /**
  * 
  */
-package net.brilliance.domain.entity.common;
+package net.brilliance.common.entity;
 
 import javax.persistence.Embeddable;
 

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package net.brilliance.domain.model.enums;
+package net.brilliance.common.model;
 
 /**
  * @author ducbq

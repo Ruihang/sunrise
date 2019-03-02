@@ -51,8 +51,6 @@
     <modules>
 			<module>aureola-core</module>
 			<module>aureola-com</module>
-      <module>aureola-model</module>
-			<module>aureola-domain-core</module>
       <module>aureola-domain</module>
       <module>aureola-repository</module>
       <module>aureola-service</module>

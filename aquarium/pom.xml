@@ -178,11 +178,11 @@
         -->
 
         <!-- Optional, for bootstrap -->
-        <dependency>
+        <!-- <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>bootstrap</artifactId>
             <version>3.3.7</version>
-        </dependency>
+        </dependency> -->
 		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -215,12 +215,12 @@
 			<groupId>com.fasterxml.jackson.datatype</groupId>
 			<artifactId>jackson-datatype-jsr310</artifactId>
 		</dependency> -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>com.zaxxer</groupId>
 			<artifactId>HikariCP</artifactId>
 			<version>2.4.7</version>
 			<scope>compile</scope>
-		</dependency>
+		</dependency> -->
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
@@ -255,13 +255,13 @@
 			<version>${commons-lang.version}</version>
 		</dependency>
 
-		<dependency>
+		<!-- <dependency>
 			<groupId>com.fasterxml.jackson.jaxrs</groupId>
 			<artifactId>jackson-jaxrs-base</artifactId>
 			<version>2.4.2</version>
-		</dependency>
+		</dependency> -->
 
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
 			<version>3.16</version>
@@ -280,7 +280,7 @@
 			<groupId>com.monitorjbl</groupId>
 			<artifactId>xlsx-streamer</artifactId>
 			<version>1.2.0</version>
-		</dependency>
+		</dependency> -->
 		<dependency>
 			<groupId>com.googlecode.libphonenumber</groupId>
 			<artifactId>libphonenumber</artifactId>
@@ -291,11 +291,11 @@
 			<artifactId>commons-beanutils</artifactId>
 			<version>1.9.3</version>
 		</dependency>
-		<dependency>
+		<!-- <dependency>
 			<groupId>net.sf.opencsv</groupId>
 			<artifactId>opencsv</artifactId>
 			<version>2.3</version>
-		</dependency>
+		</dependency> -->
 
 		<dependency>
 			<groupId>io.springfox</groupId>
@@ -324,17 +324,17 @@
 		</dependency>
 
 
-		<dependency>
+		<!-- <dependency>
 			<groupId>io.jsonwebtoken</groupId>
 			<artifactId>jjwt</artifactId>
 			<version>0.7.0</version>
-		</dependency>
+		</dependency> -->
 
-		<dependency>
+		<!-- <dependency>
 			<groupId>io.github.jhipster</groupId>
 			<artifactId>jhipster</artifactId>
 			<version>1.1.13</version>
-		</dependency>
+		</dependency> -->
 
 		<dependency>
 			<groupId>com.google.code.gson</groupId>
@@ -342,7 +342,7 @@
 			<version>2.6.2</version>
 		</dependency>
 
-		<dependency>
+		<!-- <dependency>
 			<groupId>com.github.javafaker</groupId>
 			<artifactId>javafaker</artifactId>
 			<version>0.14</version>
@@ -352,7 +352,7 @@
 				  <artifactId>snakeyaml</artifactId>
 				</exclusion>
 			</exclusions>
-		</dependency>
+		</dependency> -->
 
 		<dependency>
 			<groupId>nz.net.ultraq.thymeleaf</groupId>

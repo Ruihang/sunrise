@@ -21,7 +21,7 @@ import javax.persistence.Column;
 import javax.persistence.Embedded;
 import javax.persistence.MappedSuperclass;
 
-import net.brilliance.domain.entity.common.Address;
+import net.brilliance.common.entity.Address;
 import net.brilliance.framework.entity.BizObjectBase;
 
 /**

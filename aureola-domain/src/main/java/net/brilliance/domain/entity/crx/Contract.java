@@ -20,9 +20,9 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
+import net.brilliance.common.model.GeneralStatus;
 import net.brilliance.domain.entity.admin.UserAccount;
 import net.brilliance.domain.entity.general.Currency;
-import net.brilliance.domain.model.GeneralStatus;
 import net.brilliance.framework.entity.BizObjectBase;
 import net.brilliance.framework.global.GlobalConstants;
 

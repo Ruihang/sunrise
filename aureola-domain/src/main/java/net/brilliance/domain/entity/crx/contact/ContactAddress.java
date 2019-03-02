@@ -28,7 +28,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
-import net.brilliance.domain.entity.common.Address;
+import net.brilliance.common.entity.Address;
 import net.brilliance.framework.entity.BizObjectBase;
 
 /**

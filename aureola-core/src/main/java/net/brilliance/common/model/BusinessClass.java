@@ -1,7 +1,7 @@
 /**
  * 
  */
-package net.brilliance.domain.model;
+package net.brilliance.common.model;
 
 /**
  * @author BDQ1HC

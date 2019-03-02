@@ -18,7 +18,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.NoArgsConstructor;
 import net.brilliance.common.ListUtility;
-import net.brilliance.domain.model.GeneralStatus;
+import net.brilliance.common.model.GeneralStatus;
 import net.brilliance.framework.entity.ObjectBase;
 
 /**
